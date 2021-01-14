@@ -6,6 +6,8 @@ site, it allowed me to package this for the AUR as well which has been
 quite nice to use. Second of all please **DO NOT** go to masa for help
 with this script. Finally, this is linux only.
 
+[Download link](https://github.com/eatmyvenom/masa-mod-downloader/raw/main/download.sh)
+
 ### Usage:
 
 ```bash
