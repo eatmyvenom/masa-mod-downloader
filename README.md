@@ -10,6 +10,9 @@ with this script. Finally, this is linux only.
 
 ### Usage:
 
+Put this in the mods folder
+go to a terminal
+
 ```bash
 ./download.sh <mod name> <game version> <mod loader>
 ```
