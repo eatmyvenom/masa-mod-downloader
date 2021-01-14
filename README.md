@@ -11,3 +11,8 @@ with this script. Finally, this is linux only.
 ```bash
 ./download.sh <mod name> <game version> <mod loader>
 ```
+
+### Requirements
+
+* Wget 
+* jq
