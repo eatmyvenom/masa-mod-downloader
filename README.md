@@ -12,8 +12,8 @@ with this script. Finally, this is linux only.
 
 1) Put this in the mods folder
 2) go to a terminal
-
-3) ```bash
+3) 
+```bash
 ./download.sh <mod name> <game version> <mod loader>
 ```
 
